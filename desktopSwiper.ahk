@@ -1,0 +1,2 @@
+^#LButton::^#Left
+^#RButton::^#Right
