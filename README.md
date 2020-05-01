@@ -10,3 +10,9 @@
 
 Start:
 <kbd>`</kbd>
+
+# LButton
+> This script automatically clicks the left mouse button
+
+Start:
+<kbd>`</kbd>
